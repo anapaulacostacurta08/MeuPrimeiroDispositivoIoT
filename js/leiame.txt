@@ -1,1 +1,0 @@
-Pasta que contem os JavaScript da Pagina HTML
