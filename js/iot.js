@@ -1,7 +1,6 @@
  function LigarIoT() {
     "use strict;"
-    var elemResult = document.getElementById("resultado");
-
+    
     var exec = require('child_process').exec;
     const cmd = 'sudo ./start.sh';
 
